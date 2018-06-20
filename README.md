@@ -10,10 +10,10 @@ definitely inspired me to learn more about new web technologies.
 
 ## Question 2
 #### Tell me about a web application you have built. Why did you choose to build it? What did you learn? What challenges did you face and how did you overcome them?
-I built an API for a job interview where I had to create an API for flight search, they just give some requirements but, they expect extra features. 
-I started to research about designing guidelines, RESTful API architecture, concepts and technical aspects. 
-After all the research I decided to implement pagination and memcached. I decided to use Tornado (Python web framework) because they used Tornado to build their API’s, 
-this was a big challenge because I had limited time and I had to learn from scratch, but at the end, I was able to learn the basics and build the API.
+
+I built an API for a job interview where I had to create an API for flight search, they just give some requirements but, they expect extra features. I started to research about designing guidelines, RESTful API architecture, concepts and technical aspects. After all the research I decided to implement pagination and memcached. I decided to use Tornado (Python web framework) because they used Tornado to build their API’s, this was a big challenge because I had limited time and I had to learn from scratch, but at the end, I was able to learn the basics and build the API.
+
+
 ---
 
 ## Question 3
@@ -127,7 +127,7 @@ The result of each die roll is add and assigned to sum variable.
 ## Question 6
 #### If you were to start your full-stack developer position today, what would be your goals a year from now? 
 
-One year from now, I will have learned and created React web applications, and for that I have to improve my javascript skills
+One year from now, I will have learned and created React web applications, and for that I have to improve my javascript skills and learn other libraries that complete React like for example, Redux or Relay.
 
 
 
